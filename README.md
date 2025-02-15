@@ -6,7 +6,7 @@
     <title>My Website</title>
 </head>
 <body>
-    <h1>เว็บไซต์ของฉันบน GitHub Pages!</h1>
+    <h1><a href="login.html">ไปที่หน้าเกี่ยวกับเรา</a><เว็บไซต์ของฉันบน GitHub Pages!</h1>
     <p><a href="login.html">ไปที่หน้าเกี่ยวกับเรา</a></p>
 </body>
 </html>
